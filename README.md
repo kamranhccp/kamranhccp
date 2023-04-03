@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Flutter, Python, and Software Engineering**
 
-- 📫 How to reach me **kamranhccp1@gmail.com**
+- 📫 How to reach me **kamraanhccp@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kamranhccp/](https://www.linkedin.com/in/kamranhccp/)
 
