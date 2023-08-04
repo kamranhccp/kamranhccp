@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kamranhccp?tab=repositories](https://github.com/kamranhccp?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.kamranhccp.hashnode.dev/](https://www.kamranhccp.hashnode.dev/)
+- 📝 I regularly write articles on [Kamran Mansoor's Blog](https://www.kamranhccp.hashnode.dev/)
 
 - 💬 Ask me about **Flutter, Python, and Software Engineering**
 
